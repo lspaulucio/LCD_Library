@@ -12,7 +12,7 @@ The following libraries have been used for this LCD Library:
 #include "driverlib/sysctl.h"
 #include "driverlib/gpio.h"
 ```
-These libraries could be founded on Tiva website by the following link:
+These libraries could be found on Tiva website by the following link:
 
 http://software-dl.ti.com/tiva-c/SW-EK-TM4C123GXL/latest/index_FDS.html
 
